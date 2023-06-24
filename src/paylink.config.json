@@ -2,38 +2,38 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "CryptoFriendCub",
+    "description": "Computer Engineer.",
+    "alt": "Photo of CryptoFriendCub",
+    "hero": "./images/profile.jpg"
   },
 
   "Social": [
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "mailto:petercub20@gmail.com"
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+    { "label": "Link", "value": "bx-link", "link": "" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": ""
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": ""
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": ""
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": ""
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
@@ -54,7 +54,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1q8pp6akrldsu79rcdpnl00va78rvm4edfl2p5gy",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "TDzVjghRQ39Xvy2Ckb9RmzCzE8iA6dDqHA",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -114,13 +114,13 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "TDzVjghRQ39Xvy2Ckb9RmzCzE8iA6dDqHA",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
